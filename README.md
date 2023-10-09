@@ -4,9 +4,9 @@ A collection of userscripts that fix annoyances in websites commonly used by HKU
 
 ## :bulb: Info
 
-`HKUL Auth Autofill Fix.user.js`: Works around a Safari browser issue on the HKUL Login Page where login fields are misidentified as registration fields, disrupting the password autofill feature.
+`HKUL Auth Autofill Fix.user.js`: Works around a Safari browser issue on the HKU Libraries Login Page where login fields are misidentified as registration fields, disrupting the password autofill feature.
 
-`Moodle Hide Courses.user.js`: Allows you to hide inactive courses from the homepage and sidebar.
+`Moodle Hide Courses.user.js`: Allows you to hide inactive courses from the homepage and sidebar of Moodle.
 
 `Moodle Stay as Current User.user.js`: Automatically clicks "Cancel" when Moodle displays the "you need to log out before logging in as a different user" prompt.
 
