@@ -12,7 +12,31 @@ A collection of userscripts that fix annoyances in websites commonly used by HKU
 
 ## :computer: How to Use
 
-TODO
+### Step 1: Install a Userscript Manager
+
+Userscript managers come in the form of browser extensions.
+
+I recommend the following open-source extensions:
+
+| Browser | Extension Name | Installation Link |
+| - | - | - |
+| Safari | Userscripts | [App Store](https://apps.apple.com/app/userscripts/id1463298887) |
+| Firefox | Violentmonkey | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) |
+| Google Chrome | Violentmonkey | [Chrome Web Store](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) |
+| Microsoft Edge | Violentmonkey | [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/violentmonkey/eeagobfjdenkkddmbclomhiblgggliao) |
+
+Please make sure the extension is enabled before proceeding to the next step.
+
+### Step 2: Install Desired Userscripts
+
+1. Click the links below for the userscripts you wish to install.
+    * [HKUL Auth Autofill Fix.user.js](https://raw.githubusercontent.com/kennethkn/useful-userscripts-for-hku-students/main/HKUL%20Auth%20Autofill%20Fix.user.js)
+    * [Moodle Hide Courses.user.js](https://raw.githubusercontent.com/kennethkn/useful-userscripts-for-hku-students/main/Moodle%20Hide%20Courses.user.js)
+    * [Moodle Stay as Current User.user.js](https://raw.githubusercontent.com/kennethkn/useful-userscripts-for-hku-students/main/Moodle%20Stay%20as%20Current%20User.user.js)
+2. Navigate to the browser tab where the link opened.
+3. Click on the extension icon for your browser’s userscript manager.
+4. The extension should notify you that it has detected a user script. Click install.
+5. Once done, you may test it on relevant websites to ensure it’s working properly.
 
 ## :handshake: Contributing
 
