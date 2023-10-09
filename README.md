@@ -34,9 +34,9 @@ Please make sure the extension is enabled before proceeding to the next step.
     * [Moodle Hide Courses.user.js](https://raw.githubusercontent.com/kennethkn/useful-userscripts-for-hku-students/main/Moodle%20Hide%20Courses.user.js)
     * [Moodle Stay as Current User.user.js](https://raw.githubusercontent.com/kennethkn/useful-userscripts-for-hku-students/main/Moodle%20Stay%20as%20Current%20User.user.js)
 2. Navigate to the browser tab where the link opened.
-3. Click on the extension icon for your browser’s userscript manager.
+3. Click on the extension icon for the userscript manager.
 4. The extension should notify you that it has detected a user script. Click install.
-5. Once done, you may test it on relevant websites to ensure it’s working properly.
+5. Once done, you may test it on relevant websites to ensure it’s working properly :thumbsup:
 
 ## :handshake: Contributing
 
