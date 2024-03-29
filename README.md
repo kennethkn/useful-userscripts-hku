@@ -1,6 +1,6 @@
 # Useful Userscipts for HKU Students
 
-A collection of userscripts that fix annoyances in websites commonly used by HKU students
+A collection of userscripts that fix annoyances on HKU websites
 
 ## Info
 
