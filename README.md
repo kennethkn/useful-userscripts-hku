@@ -1,8 +1,8 @@
-# :rocket: Useful Userscipts for HKU Students
+# Useful Userscipts for HKU Students
 
 A collection of userscripts that fix annoyances in websites commonly used by HKU students
 
-## :bulb: Info
+## Info
 
 `HKUL Auth Autofill Fix.user.js`: Works around a Safari browser issue on the HKU Libraries Login Page where login fields are misidentified as registration fields, disrupting the password autofill feature.
 
@@ -10,7 +10,7 @@ A collection of userscripts that fix annoyances in websites commonly used by HKU
 
 `Moodle Stay as Current User.user.js`: Automatically clicks "Cancel" when Moodle displays the "you need to log out before logging in as a different user" prompt.
 
-## :computer: How to Use
+## Usage
 
 ### Step 1: Install a Userscript Manager
 
@@ -38,6 +38,6 @@ Please make sure the extension is enabled before proceeding to the next step.
 4. The extension should notify you that it has detected a userscript. Click install.
 5. Once done, you may test it on relevant websites to ensure it’s working properly :thumbsup:
 
-## :handshake: Contributing
+## Contributing
 
-Contributions are welcome. If you have any scripts that could enhance the browsing experience for HKU students, please feel free to create a pull request to add them to the collection.
+Feel free to contribute by creating a pull request or opening an issue. If you have any ideas for new userscripts, please let me know!
